@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://ee-quotes.onrender.com/api/:path*"
+      "destination": "ee-quotes.onrender.com/api/:path*"
     }
   ],
   "headers": [
